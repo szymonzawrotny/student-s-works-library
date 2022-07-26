@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1654200571 source:d:\szymonzawrotny\studia\drugisemest\programowanie\projektnazaliczenie\studia\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+
+1654373668 source:c:\users\asus\desktop\projektnazaliczenie\studia\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+
+1654717969 source:c:\users\szymek\desktop\proj\projektnazaliczenie\studia\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+
+1654717969 source:d:\szymonzawrotny\proj\projektnazaliczenie\studia\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<stdio.h>
+	<conio.h>
+	<string>
+
